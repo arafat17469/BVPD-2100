@@ -3,7 +3,7 @@ A Bangla vishing dataset based on victim-reported fraud scenarios with labeled t
 
 ## Dataset creators
 
-- Arafat Rahman
+- **Arafat Rahman** — Department of Computer Science and Engineering (CSE-22), Pundra University of Science & Technology. [ORCID: 0009-0009-5041-2461](https://orcid.org/0009-0009-5041-2461) · [GitHub: arafat17469](https://github.com/arafat17469)
 - [Nahid Hasan](https://pundrauniversity.ac.bd/profile/computer-science-and-engineering/nahid-hasan)
 
 ## License
