@@ -3,7 +3,8 @@ A Bangla vishing dataset based on victim-reported fraud scenarios with labeled t
 
 ## Dataset creators
 
-Arafat Rahman
+- Arafat Rahman
+- [Nahid Hasan](https://pundrauniversity.ac.bd/profile/computer-science-and-engineering/nahid-hasan)
 
 ## License
 
